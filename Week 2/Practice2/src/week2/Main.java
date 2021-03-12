@@ -14,10 +14,12 @@ public class Main {
 //        a1.m2();
 //        System.out.println(a1.m3());
 
+//
+//        B b = new B();
+//        b.m1();
+//        b.m2();
+//        b.m3();
 
-        B b = new B();
-        b.m1();
-        b.m2();
-        b.m3();
+
     }
 }
