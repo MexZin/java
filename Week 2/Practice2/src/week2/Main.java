@@ -1,7 +1,7 @@
 package week2;
 
-import week2.project1.A;
-import week2.project1.B;
+import week2.project3.A;
+import week2.project3.B;
 
 public class Main {
 
@@ -20,6 +20,9 @@ public class Main {
 //        b.m2();
 //        b.m3();
 
-
+//        A a2 = new A();
+//        a2.ex1();
+        B b2 = new B();
+        b2.ex1();
     }
 }
